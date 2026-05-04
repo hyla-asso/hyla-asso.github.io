@@ -1,0 +1,17 @@
+---
+title: "Partenaires"
+---
+
+
+:::{layout-ncol=2}
+<a href=https://www.bufo-alsace.org/ target=_blank><img src="./images/logo_bufo.jpg" width=150></a>
+
+<a href=https://www.cen-lorraine.fr/ target=_blank><img src="./images/logo_CENL.jpg" width=200></a>
+:::
+
+:::{layout-ncol=2}
+<a href=https://www.gecnal-wpn.org/ target=_blank><img src="./images/logo_gecnal.png" width=150></a>
+
+<a href=https://www.odonat-grandest.fr/ target=_blank><img src="./images/logo_odonat.png" width=200></a>
+:::
+

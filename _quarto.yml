@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "HYLA"
+  page-footer: 
+    right: "Ce site a été créé avec [Quarto](https://quarto.org/)"
+    left: "&copy; Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)."
+  navbar:
+    left:
+      - about.qmd
+      - text: "Actualités/agenda"
+        menu:
+        - href: news.qmd
+          text: "Actualités"
+        - href: agenda.qmd
+          text: "Agenda"  
+      - atlas.qmd
+      - text: "Espèces"
+        menu:
+          - href: amphibiens.qmd
+            text : "Amphibiens"
+          - href: reptiles.qmd
+            text: Reptiles
+      - partenaires.qmd
+    search: false
+    right:
+      - icon: github
+        href: https://github.com/hyla-asso/hyla-asso.github.io
+      - icon: linkedin
+        href: https://www.linkedin.com/company/hyla-lorraine/
+      - icon: facebook
+        href: https://www.facebook.com/people/Association-HYLA/61576505043693/#
+
+format:
+  html:
+    lang: fr
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+
+
+
