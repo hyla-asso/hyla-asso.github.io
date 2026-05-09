@@ -1,6 +1,6 @@
 # Site web HYLA
 
-Scripts écrits par Jean-Pierre Vacher.
+Scripts écrits par [Jean-Pierre Vacher](https://github.com/jpvacher).
 Première version avril 2026.
 
 Site web réalisé avec [Quarto](https://quarto.org/) dans [Positron](https://positron.posit.co/). 
