@@ -2,5 +2,5 @@
 title: "Actualités"
 ---
 
-Pas d'actualité pour le moment.
-
+## News du 3 juin 2026 : Un nouvel amphibien découvert en Lorraine !
+Un nouveau taxon d'amphibien a été découvert en Lorraine grâce à l'ADN environnemental, il s'agit de la Grenouille verte des Balkans, *Pelophylax ridibundus kurtmuelleri*. Un article décrivant cette découverte a été publié dans le Bulletin de la Société d'Histoire naturelle et d'Ethnographie de Colmar, en accès public [sur le lien suivant](https://www.museumcolmar.org/bulletin/decouverte-dun-nouveau-taxon-damphibien-grace-a-ladn-environnemental-premiere-mention){.external target="_blank"}
