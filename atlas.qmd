@@ -18,7 +18,7 @@ La validation des données en Lorraine est assurée par Damien Aumaître et Jean
 
 ## Carte de pression d'observation
 
-À titre informatif, nous donnons ci-dessous trois cartes qui montrent un état des lieux en 2025 du nombre d'observations par mailles de 5 x 5 km et 2 x 2 km, ainsi que la carte à la maille 2 x 2 km du Lézard des murailles, *Podarcis muralis*, qui est probablement l'espèce de reptiles la plus courante et la plus facile a observer, mais pour laquelle il manque encore beaucoup de données dans notre base.
+À titre informatif, nous donnons ci-dessous trois cartes qui montrent un état des lieux en 2025 du nombre d'observations par mailles de 5 x 5 km et 2 x 2 km, ainsi que la carte à la maille 2 x 2 km du Lézard des murailles, *Podarcis muralis*, qui est probablement l'espèce de reptiles la plus courante et la plus facile à observer, mais pour laquelle il manque encore beaucoup de données dans notre base.
 
 ![Nombre d'observations par maille 5 x 5 km](images/nb_obs_5KM.jpg)
 
