@@ -2,5 +2,15 @@
 title: "Actualités"
 ---
 
+## News du 21 juillet 2026 : *Batrachochytrium salamandrivorans* en Europe : quelle stratégie appliquer ?
+Un article paru ce mois-ci dans la revue scientifique *Emerging Infectious Diseases* traite de la prise en compte des zoonoses qui touchent les populations naturelles, en s'appuyant sur l'exemple du chytride *Batrachochytrium salamandrivorans* (Bsal). Cet agent pathogène endémique des amphibiens est particulièrement impactant pour les urodèles sauvages en Europe, et a notamment mené à classer la Salamandre tachetée dans la catégorie VU de la Liste rouge mondiale de l'UICN. L'article expose l'historique de l'apparition de Bsal en Europe et rappelle l'effondrement des populations de salamandre qu'il a causé aux Pays-Bas, au nord-ouest de l'Allemagne et en Belgique. Les auteurs pointent la nécessité d'une coopération entre états pour atténuer les impacts, notamment en développant des outils de détection précoce, et de limitation de la dispersion du pathogène. Étant donné que la Lorraine est à la croisée de frontières, notamment proche de la Belgique où Bsal est documenté, cet article est particulièrement important pour nous afin de s'insérer dans une dynamique de prévention, de développer et mettre en place des mesures pour éviter l'apparition de Bsal, ou au pire de limiter sa propagation au sein des populations de tritons et de salamandres dans notre région.
+L'article est disponible en libre accès à cette adresse : [https://wwwnc.cdc.gov/eid/article/32/7/25-1271_article](https://wwwnc.cdc.gov/eid/article/32/7/25-1271_article)
+
+
+## News du 17 juillet 2026 : Nouveau président à BUFO
+Nos voisins alsaciens de BUFO on renouvellé leur CA lors de la dernière AG de juin 2026, et Frédéric Petitpretz succède à Vincent Noël au poste de Président. 
+[https://www.bufo-alsace.org/vie-associative/changement-de-presidence/](https://www.bufo-alsace.org/vie-associative/changement-de-presidence/)
+
+
 ## News du 3 juin 2026 : Un nouvel amphibien découvert en Lorraine !
 Un nouveau taxon d'amphibien a été découvert en Lorraine grâce à l'ADN environnemental, il s'agit de la Grenouille verte des Balkans, *Pelophylax ridibundus kurtmuelleri*. Un article décrivant cette découverte a été publié dans le Bulletin de la Société d'Histoire naturelle et d'Ethnographie de Colmar, en accès public [sur le lien suivant](https://www.museumcolmar.org/bulletin/decouverte-dun-nouveau-taxon-damphibien-grace-a-ladn-environnemental-premiere-mention){.external target="_blank"}

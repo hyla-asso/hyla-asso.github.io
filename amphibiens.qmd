@@ -29,5 +29,17 @@ La Lorraine compte 18 espèces d'amphibiens autochtones, une espèce et un taxon
 - *Rana temporaria*, la Grenouille rousse
 
 
+<center>
+:::{layout-ncol=2}
+<img src="./images/PelodyteSVitzthum2.jpg" width=300>
 
+
+<img src="./images/rainettevertechantSVitzthum.jpg" width=300>
+
+Couple de Pélodytes ponctués
+
+Rainette verte
+
+:::
+</center>
 

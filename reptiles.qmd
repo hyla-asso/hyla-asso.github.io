@@ -24,3 +24,13 @@ Il existe une mention isolée de Couleuvre d'Esculape (*Zamenis longissimus*) da
 Il existe des observations ponctuelles d'autres espèces de tortues importées, sans preuve de populations établies comme la Tortue de Floride.
 
 
+<center>
+:::{layout-ncol=1}
+
+<img src="./images/couleuvreverteetjauneSVitzthum.jpg" width=300>
+
+Couleuvre verte et jaune
+
+
+:::
+</center>

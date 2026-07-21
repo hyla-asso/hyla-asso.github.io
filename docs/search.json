@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Organisation",
-    "section": "",
-    "text": "HYLA a été créée en janvier 2026. Elle est actuellement composée d’une équipe de bénévoles, et tendra à développer son activité avec une équipe salariée au cours de l’année 2026."
-  },
-  {
-    "objectID": "about.html#conseil-dadministration",
-    "href": "about.html#conseil-dadministration",
-    "title": "Organisation",
-    "section": "Conseil d’administration",
-    "text": "Conseil d’administration\n\nBureau\n\nLaurent Godé, Président\nAlain Morand, Vice-président\nLouise Silva-Lassalle, Secrétaire\nMariana Miranda d’Assunção, Trésorière\n\n\n\nAutres membres du Conseil\n\nJean-Baptiste Lusson\nEmmanuel Moitry\nFrancis Muller\nMyriam Poullard\nStéphane Vitzthum"
-  },
-  {
-    "objectID": "about.html#salariés",
-    "href": "about.html#salariés",
-    "title": "Organisation",
-    "section": "Salariés",
-    "text": "Salariés\n\nJean-Pierre Vacher, Responsable scientifique depuis mai 2026."
-  },
-  {
     "objectID": "amphibiens.html",
     "href": "amphibiens.html",
     "title": "Amphibiens de Lorraine",
     "section": "",
-    "text": "La Lorraine compte 18 espèces d’amphibiens autochtones, une espèce et un taxon (sous-espèce) introduits.\n\nUrodèles\n\nIchthyosaura alpestris, le Triton alpestre\nLissotriton helveticus, le Triton palmé\nLissotriton vulgaris, le Triton ponctué\nSalamandra salamandra, la Salamandre tachetée\nTriturus cristatus, le Triton crêté\n\n\n\nAnoures\n\nAlytes obstetricans, l’Alyte accoucheur\nBombina bombina, le Sonneur à ventre de feu *introduit\nBombina variegata, le Sonneur à ventre jaune\nPelodytes punctatus, le Pélodyte ponctué\nPelobates fuscus, le Pélobate brun\nBufo bufo, le Crapaud commun\nBufotes viridis, le Crapaud vert\nEpidalea calamita, le Crapaud calamite\nHyla arborea, la Rainette verte\nPelophylax lessonae, la Grenouille de Lessona\nPelophylax kl. esculentus, la Grenouille verte\nPelophylax ridibundus, la Grenouille rieuse\nPelophylax ridibundus kurtmuelleri, la Grenouille rieuse des Balkans *introduite\nRana dalmatina, la Grenouille agile\nRana temporaria, la Grenouille rousse"
-  },
-  {
-    "objectID": "reptiles.html",
-    "href": "reptiles.html",
-    "title": "Reptiles de Lorraine",
-    "section": "",
-    "text": "La Lorraine compte 8 espèces de reptiles autochtones, une espèce introduite.\n\nLézards\n\nLacerta agilis, le Lézard des souches\nPodarcis muralis, le Lézard des murailles\nZootoca vivipara, le Lézard vivipare\nAnguis fragilis, l’Orvet fragile\n\n\n\nSerpents\n\nCoronella austriaca, la coronelle lisse\nHierophis viridiflavus, la couleuvre verte et jaune\nNatrix helvetica, la Couleuvre à collier helvétique\nVipera aspis, la Vipère aspic\n\nIl existe une mention isolée de Couleuvre d’Esculape (Zamenis longissimus) dans le sud des Vosges datant des années 2000, l’espèce n’a pas été retrouvée depuis et nous n’avons jusqu’à présent aucune information sur une population établie et viable de cette espèce dans la région.\n\n\nTortues\n\nTrachemys scripta elegans, la Tortue de Floride *introduite\n\nIl existe des observations ponctuelles d’autres espèces de tortues importées, sans preuve de populations établies comme la Tortue de Floride."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Actualités",
-    "section": "",
-    "text": "Un nouveau taxon d’amphibien a été découvert en Lorraine grâce à l’ADN environnemental, il s’agit de la Grenouille verte des Balkans, Pelophylax ridibundus kurtmuelleri. Un article décrivant cette découverte a été publié dans le Bulletin de la Société d’Histoire naturelle et d’Ethnographie de Colmar, en accès public sur le lien suivant"
-  },
-  {
-    "objectID": "news.html#news-du-3-juin-2026-un-nouvel-amphibien-découvert-en-lorraine",
-    "href": "news.html#news-du-3-juin-2026-un-nouvel-amphibien-découvert-en-lorraine",
-    "title": "Actualités",
-    "section": "",
-    "text": "Un nouveau taxon d’amphibien a été découvert en Lorraine grâce à l’ADN environnemental, il s’agit de la Grenouille verte des Balkans, Pelophylax ridibundus kurtmuelleri. Un article décrivant cette découverte a été publié dans le Bulletin de la Société d’Histoire naturelle et d’Ethnographie de Colmar, en accès public sur le lien suivant"
-  },
-  {
-    "objectID": "agenda.html",
-    "href": "agenda.html",
-    "title": "Agenda",
-    "section": "",
-    "text": "5 au 7 juin 2026 : 24h de la biodiversité dans la vallée des Éclusiers (Moselle sud). Plus d’informations sur le lien suivant"
+    "text": "La Lorraine compte 18 espèces d’amphibiens autochtones, une espèce et un taxon (sous-espèce) introduits.\n\nUrodèles\n\nIchthyosaura alpestris, le Triton alpestre\nLissotriton helveticus, le Triton palmé\nLissotriton vulgaris, le Triton ponctué\nSalamandra salamandra, la Salamandre tachetée\nTriturus cristatus, le Triton crêté\n\n\n\nAnoures\n\nAlytes obstetricans, l’Alyte accoucheur\nBombina bombina, le Sonneur à ventre de feu *introduit\nBombina variegata, le Sonneur à ventre jaune\nPelodytes punctatus, le Pélodyte ponctué\nPelobates fuscus, le Pélobate brun\nBufo bufo, le Crapaud commun\nBufotes viridis, le Crapaud vert\nEpidalea calamita, le Crapaud calamite\nHyla arborea, la Rainette verte\nPelophylax lessonae, la Grenouille de Lessona\nPelophylax kl. esculentus, la Grenouille verte\nPelophylax ridibundus, la Grenouille rieuse\nPelophylax ridibundus kurtmuelleri, la Grenouille rieuse des Balkans *introduite\nRana dalmatina, la Grenouille agile\nRana temporaria, la Grenouille rousse\n\n\n\n\n\n\n\n\n\n\n\n\n\nCouple de Pélodytes ponctués\n\n\nRainette verte"
   },
   {
     "objectID": "atlas.html",
@@ -84,10 +35,73 @@
     "text": "Communes sans données - 2026\nIl reste encore beaucoup de communes en Lorraine sans aucune donnée herpétologique, notamment en Moselle. Pourtant, des espèces communes comme le Lézard des murailles ou le Crapaud commun doivent s’y rencontrer. N’hésitez pas à enregistrer vos observations dans faune-grandest si d’aventure vous passiez par l’une ou l’autre de ces communes, dont nous donnons la liste actualisée en 2026 ci-dessous.\n\nMeurthe-et-Moselle\nEn 2026, 55 communes de Meurthe-et-Moselle sont dépourvues de données herpétologiques :\n\n\nAvricourt, Bauzemont, Bettainvillers, Beuvillers, Bienville-la-Petite, Borville, Bratte, Brouville, Coincourt, Courbesseaux, Crusnes, Cutry, Diarville, Domptail-en-l’Air, Drouville, Éply, Erbéviller-sur-Amezule, Flainval, Franconville, Grosrouvres, Haigneville, Halloville, Houdelmont, Igney, Juvrecourt, Lalœuf, Landécourt,\n\nMalavillers, Malleloy, Manoncourt-en-Vermois, Moineville, Montigny, Moriviller, Moutiers, Noviant-aux-Prés, Ognéville, Parux, Port-sur-Seille, Raucourt, Réchicourt-la-Petite, Réclonville, Reherrey, Repaix, Romain, Rouves, Saint-Supplet, Sornéville, Tellancourt, Thézey-Saint-Martin, Tiercelet, Valhey, Vandelainville, Villers-la-Chèvre, Villers-lès-Moivrons, Vroncourt\n\n\n\n\nMeuse\nEn 2026, 37 communes de Meuse sont dépourvues de données herpétologiques :\n\n\nAincreville, Avillers-Sainte-Croix, Baulny, Béthelainville, Blanzée, Brabant-le-Roi, Brocourt-en-Argonne, Cléry-le-Grand, Courouvre, Cuisy, Cunel, Dombasle-en-Argonne, Domremy-la-Canne, Épinonville, Érize-la-Brûlée, Heippes, Jouy-en-Argonne, Julvécourt,\n\nLe Neufour, Les Trois-Domaines, Levoncourt, Maizeray, Marchéville-en-Woëvre, Ménil-aux-Bois, Muzeray, Nantillois, Neuville-en-Verdunois, Osches, Rembercourt-Sommaisne, Riaville, Seigneulles, Septsarges, Silmont, Vadelaincourt, Véry, Vigneul-sous-Montmédy, Ville-sur-Cousances\n\n\n\n\nMoselle\nEn 2026, 109 communes de Moselle sont dépourvues de données herpétologiques :\n\n\nAchain, Alaincourt-la-Côte, Altrippe, Arraincourt, Arriance, Aspach, Aulnois-sur-Seille, Aumetz, Bannay, Barchain, Béchy, Berling, Berviller-en-Moselle, Bettange, Beux, Beyren-lès-Sierck, Bioncourt, Bourscheid, Bréhain, Brouderdorff, Brulange, Buchy, Carling, Château-Rouge, Chieulles, Coin-sur-Seille, Cuvry, Dalhain, Dalstein, Destry, Diffembach-lès-Hellimer, Domnom-lès-Dieuze, Enchenberg, Entrange, Évrange, Failly, Fouligny, Foville, Gandrange, Glatigny, Grindorff-Bizing, Guébestroff, Guerstling, Guinkirchen, Guntzviller, Haboudange, Hartzviller, Heining-lès-Bouzonville, Hellering-lès-Fénétrange, Hérange, Hestroff, Hommert, Honskirch, Hunting,\n\nLambach, Landroff, Laneuveville-en-Saulnois, Laneuveville-lès-Lorquin, Lesse, Liéhon, Lindre-Haute, Lubécourt, Malroy, Marange-Zondrange, Mégange, Meisenthal, Menskirch, Momerstroff, Moncourt, Montdidier, Morville-lès-Vic, Narbéfontaine, Neufvillage, Niedervisse, Noisseville, Nousseviller-Saint-Nabor, Oberdorff, Oriocourt, Pévange, Plesnois, Pommérieux, Pournoy-la-Chétive, Rettel, Richeval, Roupeldange, Saint-François-Lacroix, Saint-Jean-Kourtzerode, Sanry-sur-Nied, Secourt, Semécourt, Serémange-Erzange, Servigny-lès-Sainte-Barbe, Silly-en-Saulnois, Stiring-Wendel, Suisse, Tragny, Tromborn, Valmunster, Vasperviller, Vescheim, Villers-Stoncourt, Villing, Vilsberg, Vœlfling-lès-Bouzonville, Waldwisse, Waltembourg, Wintersbourg, Xocourt, Zilling\n\n\n\n\nVosges\nEn 2026, 36 communes des Vosges sont dépourvues de données herpétologiques :\n\n\nAmeuvelle, Aydoilles, Battexey, Baudricourt, Bertrimoutier, Bocquegney, Boulaincourt, Cheniménil, Clérey-la-Côte, Coinches, Domèvre-sous-Montfort, Dommartin-aux-Bois, Dommartin-sur-Vraine, Entre-deux-Eaux, Évaux-et-Ménil, Frénois,\n\nGemaingoutte, Gigney, Hardancourt, La Petite-Fosse, Laveline-du-Houx, Le Beulay, Le Puid, Les Poulières, Luvigny, Ménarmont, Ménil-de-Senones, Ortoncourt, Regney, Remomeix, Saint-Remimont, Vaudéville, Vienville, Vieux-Moulin, Viménil, Xamontarupt"
   },
   {
+    "objectID": "agenda.html",
+    "href": "agenda.html",
+    "title": "Agenda",
+    "section": "",
+    "text": "5 au 7 juin 2026 : 24h de la biodiversité dans la vallée des Éclusiers (Moselle sud). Plus d’informations sur le lien suivant"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Organisation",
+    "section": "",
+    "text": "HYLA a été créée en janvier 2026. Elle est actuellement composée d’une équipe de bénévoles, et tendra à développer son activité avec une équipe salariée au cours de l’année 2026."
+  },
+  {
+    "objectID": "about.html#conseil-dadministration",
+    "href": "about.html#conseil-dadministration",
+    "title": "Organisation",
+    "section": "Conseil d’administration",
+    "text": "Conseil d’administration\n\nBureau\n\nLaurent Godé, Président\nAlain Morand, Vice-président\nLouise Silva-Lassalle, Secrétaire\nMariana Miranda d’Assunção, Trésorière\n\n\n\nAutres membres du Conseil\n\nJean-Baptiste Lusson\nEmmanuel Moitry\nFrancis Muller\nMyriam Poullard\nStéphane Vitzthum"
+  },
+  {
+    "objectID": "about.html#salariés",
+    "href": "about.html#salariés",
+    "title": "Organisation",
+    "section": "Salariés",
+    "text": "Salariés\n\nJean-Pierre Vacher, Responsable scientifique depuis mai 2026."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Actualités",
+    "section": "",
+    "text": "Un article paru ce mois-ci dans la revue scientifique Emerging Infectious Diseases traite de la prise en compte des zoonoses qui touchent les populations naturelles, en s’appuyant sur l’exemple du chytride Batrachochytrium salamandrivorans (Bsal). Cet agent pathogène endémique des amphibiens est particulièrement impactant pour les urodèles sauvages en Europe, et a notamment mené à classer la Salamandre tachetée dans la catégorie VU de la Liste rouge mondiale de l’UICN. L’article expose l’historique de l’apparition de Bsal en Europe et rappelle l’effondrement des populations de salamandre qu’il a causé aux Pays-Bas, au nord-ouest de l’Allemagne et en Belgique. Les auteurs pointent la nécessité d’une coopération entre états pour atténuer les impacts, notamment en développant des outils de détection précoce, et de limitation de la dispersion du pathogène. Étant donné que la Lorraine est à la croisée de frontières, notamment proche de la Belgique où Bsal est documenté, cet article est particulièrement important pour nous afin de s’insérer dans une dynamique de prévention, de développer et mettre en place des mesures pour éviter l’apparition de Bsal, ou au pire de limiter sa propagation au sein des populations de tritons et de salamandres dans notre région. L’article est disponible en libre accès à cette adresse : https://wwwnc.cdc.gov/eid/article/32/7/25-1271_article"
+  },
+  {
+    "objectID": "news.html#news-du-3-juin-2026-un-nouvel-amphibien-découvert-en-lorraine",
+    "href": "news.html#news-du-3-juin-2026-un-nouvel-amphibien-découvert-en-lorraine",
+    "title": "Actualités",
+    "section": "News du 3 juin 2026 : Un nouvel amphibien découvert en Lorraine !",
+    "text": "News du 3 juin 2026 : Un nouvel amphibien découvert en Lorraine !\nUn nouveau taxon d’amphibien a été découvert en Lorraine grâce à l’ADN environnemental, il s’agit de la Grenouille verte des Balkans, Pelophylax ridibundus kurtmuelleri. Un article décrivant cette découverte a été publié dans le Bulletin de la Société d’Histoire naturelle et d’Ethnographie de Colmar, en accès public sur le lien suivant"
+  },
+  {
+    "objectID": "reptiles.html",
+    "href": "reptiles.html",
+    "title": "Reptiles de Lorraine",
+    "section": "",
+    "text": "La Lorraine compte 8 espèces de reptiles autochtones, une espèce introduite.\n\nLézards\n\nLacerta agilis, le Lézard des souches\nPodarcis muralis, le Lézard des murailles\nZootoca vivipara, le Lézard vivipare\nAnguis fragilis, l’Orvet fragile\n\n\n\nSerpents\n\nCoronella austriaca, la coronelle lisse\nHierophis viridiflavus, la couleuvre verte et jaune\nNatrix helvetica, la Couleuvre à collier helvétique\nVipera aspis, la Vipère aspic\n\nIl existe une mention isolée de Couleuvre d’Esculape (Zamenis longissimus) dans le sud des Vosges datant des années 2000, l’espèce n’a pas été retrouvée depuis et nous n’avons jusqu’à présent aucune information sur une population établie et viable de cette espèce dans la région.\n\n\nTortues\n\nTrachemys scripta elegans, la Tortue de Floride *introduite\n\nIl existe des observations ponctuelles d’autres espèces de tortues importées, sans preuve de populations établies comme la Tortue de Floride.\n\n\n\n\n\n\n\n\n\nCouleuvre verte et jaune"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "HYLA",
     "section": "",
     "text": "Bienvenue sur le site web de l’association HYLA, consacrée à l’étude et à la protection des Amphibiens et Reptiles de Lorraine.\nHYLA est une association de droit local basée en Moselle et qui intervient dans les quatre départements lorrains, dont les objectifs statutaires sont :\n\nl’étude de toutes les espèces de reptiles et amphibiens et de leurs habitats respectifs,\nla participation à des programmes internationaux, nationaux et régionaux de connaissance et de conservation de l’herpétofaune et de ses habitats,\nla collecte et la diffusion des données concernant l’herpétofaune de Lorraine,\nla préservation et la restauration des habitats de ces espèces,\nl’information et la sensibilisation du public et des acteurs du territoire,\nl’initiation, la vulgarisation et la formation à la connaissance des amphibiens et des reptiles et à leur protection,\nl’intervention en cas de non-respect de la règlementation en vigueur\n\nHYLA est membre d’ODONAT Grand Est."
+  },
+  {
+    "objectID": "news.html#news-du-21-juillet-2026-batrachochytrium-salamandrivorans-en-europe-quelle-stratégie-appliquer",
+    "href": "news.html#news-du-21-juillet-2026-batrachochytrium-salamandrivorans-en-europe-quelle-stratégie-appliquer",
+    "title": "Actualités",
+    "section": "",
+    "text": "Un article paru ce mois-ci dans la revue scientifique Emerging Infectious Diseases traite de la prise en compte des zoonoses qui touchent les populations naturelles, en s’appuyant sur l’exemple du chytride Batrachochytrium salamandrivorans (Bsal). Cet agent pathogène endémique des amphibiens est particulièrement impactant pour les urodèles sauvages en Europe, et a notamment mené à classer la Salamandre tachetée dans la catégorie VU de la Liste rouge mondiale de l’UICN. L’article expose l’historique de l’apparition de Bsal en Europe et rappelle l’effondrement des populations de salamandre qu’il a causé aux Pays-Bas, au nord-ouest de l’Allemagne et en Belgique. Les auteurs pointent la nécessité d’une coopération entre états pour atténuer les impacts, notamment en développant des outils de détection précoce, et de limitation de la dispersion du pathogène. Étant donné que la Lorraine est à la croisée de frontières, notamment proche de la Belgique où Bsal est documenté, cet article est particulièrement important pour nous afin de s’insérer dans une dynamique de prévention, de développer et mettre en place des mesures pour éviter l’apparition de Bsal, ou au pire de limiter sa propagation au sein des populations de tritons et de salamandres dans notre région. L’article est disponible en libre accès à cette adresse : https://wwwnc.cdc.gov/eid/article/32/7/25-1271_article"
+  },
+  {
+    "objectID": "news.html#news-du-17-juillet-2026-nouveau-président-à-bufo",
+    "href": "news.html#news-du-17-juillet-2026-nouveau-président-à-bufo",
+    "title": "Actualités",
+    "section": "News du 17 juillet 2026 : Nouveau président à BUFO",
+    "text": "News du 17 juillet 2026 : Nouveau président à BUFO\nNos voisins alsaciens de BUFO on renouvellé leur CA lors de la dernière AG de juin 2026, et Frédéric Petitpretz succède à Vincent Noël au poste de Président. https://www.bufo-alsace.org/vie-associative/changement-de-presidence/"
   }
 ]

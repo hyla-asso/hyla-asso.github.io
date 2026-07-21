@@ -15,3 +15,13 @@ HYLA est une association de droit local basée en Moselle et qui intervient dans
 - l’intervention en cas de non-respect de la règlementation en vigueur 
 
 HYLA est membre d'ODONAT Grand Est.
+
+<center>
+:::{layout-ncol=2}
+<img src="./images/RainetteSVitzthum.jpg" width=300>
+
+
+<img src="./images/MareForestiereVitzthum.jpg" width=300>
+
+:::
+</center>
