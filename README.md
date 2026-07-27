@@ -7,4 +7,4 @@ Site web réalisé avec [Quarto](https://quarto.org/) dans [Positron](https://p
 
 Les fichiers sont au format qmd qui est le format markdown avec en plus un en-tête qui permet d’ajouter des informations pour indiquer le format de la page (table des matières, date, mot-clés).
 
-Les images utilisées pour le site sont de l'auteur et de Stéphane Vitzthum et ne sont pas libres de droit.
+Les photographies utilisées pour le site sont propriétés des auteurs et ne sont pas libres de droit.
