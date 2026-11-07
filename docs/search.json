@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "agenda.html",
+    "href": "agenda.html",
+    "title": "Agenda",
+    "section": "",
+    "text": "9 janvier 2027 : Rencontres herpétologiques de Wallonie à Dinant, organisées par le pôle Raînne de Natagora le samedi 9 janvier 2027 de 9h à 16h30. Programme et inscription.\n5 décembre 2026 : Colloque annuel du Karch à l’université de Berne (Suisse). Colloque bilingue français-allemand sans traduction. Gratuit, inscription obligatoire.\n5 novembre 2026 : 7èmes rencontres herpétologiques du Grand Est dans la salle de l’hémicycle de l’Hôtel de région 5 rue de Jericho à Châlons-en-Champagne (51). De 9h à 17h.\n\n\n\n\n\n30 septembre au 3 octobre : Congrès annuel de la Société herpétologique de France à Bayonne (64). Programme.\n25-26 septembre 2026 : 22ème rencontres de BFC Nature à l’université de Dijon (UFR Sciences Vie, Terre et Environnement). Une session sur la conservation des amphibiens est programmée le vendredi 25 septembre après-midi.\n5 au 7 juin 2026 : 24h de la biodiversité dans la vallée des Éclusiers (Moselle sud). Plus d’informations sur le lien suivant"
+  },
+  {
+    "objectID": "amphibiens.html",
+    "href": "amphibiens.html",
+    "title": "Amphibiens de Lorraine",
+    "section": "",
+    "text": "La Lorraine compte 18 espèces d’amphibiens autochtones, une espèce et un taxon (sous-espèce) introduits.\n\nUrodèles\n\nIchthyosaura alpestris, le Triton alpestre\nLissotriton helveticus, le Triton palmé\nLissotriton vulgaris, le Triton ponctué\nSalamandra salamandra, la Salamandre tachetée\nTriturus cristatus, le Triton crêté\n\n\n\nAnoures\n\nAlytes obstetricans, l’Alyte accoucheur\nBombina bombina, le Sonneur à ventre de feu *introduit\nBombina variegata, le Sonneur à ventre jaune\nPelodytes punctatus, le Pélodyte ponctué\nPelobates fuscus, le Pélobate brun\nBufo bufo, le Crapaud commun\nBufotes viridis, le Crapaud vert\nEpidalea calamita, le Crapaud calamite\nHyla arborea, la Rainette verte\nPelophylax lessonae, la Grenouille de Lessona\nPelophylax kl. esculentus, la Grenouille verte\nPelophylax ridibundus, la Grenouille rieuse\nPelophylax ridibundus kurtmuelleri, la Grenouille rieuse des Balkans *introduite\nRana dalmatina, la Grenouille agile\nRana temporaria, la Grenouille rousse\n\n\n\n\n\n\n\n\n\n\n\n\n\nCouple de Pélodytes ponctués\n\n\nRainette verte"
+  },
+  {
+    "objectID": "reptiles.html",
+    "href": "reptiles.html",
+    "title": "Reptiles de Lorraine",
+    "section": "",
+    "text": "La Lorraine compte 8 espèces de reptiles autochtones, une espèce introduite.\n\nLézards\n\nLacerta agilis, le Lézard des souches\nPodarcis muralis, le Lézard des murailles\nZootoca vivipara, le Lézard vivipare\nAnguis fragilis, l’Orvet fragile\n\n\n\nSerpents\n\nCoronella austriaca, la coronelle lisse\nHierophis viridiflavus, la couleuvre verte et jaune\nNatrix helvetica, la Couleuvre à collier helvétique\nVipera aspis, la Vipère aspic\n\nIl existe une mention isolée de Couleuvre d’Esculape (Zamenis longissimus) dans le sud des Vosges datant des années 2000, l’espèce n’a pas été retrouvée depuis et nous n’avons jusqu’à présent aucune information sur une population établie et viable de cette espèce dans la région.\n\n\nTortues\n\nTrachemys scripta elegans, la Tortue de Floride *introduite\n\nIl existe des observations ponctuelles d’autres espèces de tortues importées, sans preuve de populations établies comme la Tortue de Floride.\n\n\n\n\n\n\n\n\n\n\n\n\nCouleuvre verte et jaune\n\n\nLézard des murailles"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Organisation",
@@ -19,20 +40,6 @@
     "title": "Organisation",
     "section": "Salariés",
     "text": "Salariés\n\nDamien Aumaître, Responsable administratif et technique ; contact : d.aumaitre.hyla[at]gmail.com\nJean-Pierre Vacher, Responsable scientifique depuis mai 2026."
-  },
-  {
-    "objectID": "amphibiens.html",
-    "href": "amphibiens.html",
-    "title": "Amphibiens de Lorraine",
-    "section": "",
-    "text": "La Lorraine compte 18 espèces d’amphibiens autochtones, une espèce et un taxon (sous-espèce) introduits.\n\nUrodèles\n\nIchthyosaura alpestris, le Triton alpestre\nLissotriton helveticus, le Triton palmé\nLissotriton vulgaris, le Triton ponctué\nSalamandra salamandra, la Salamandre tachetée\nTriturus cristatus, le Triton crêté\n\n\n\nAnoures\n\nAlytes obstetricans, l’Alyte accoucheur\nBombina bombina, le Sonneur à ventre de feu *introduit\nBombina variegata, le Sonneur à ventre jaune\nPelodytes punctatus, le Pélodyte ponctué\nPelobates fuscus, le Pélobate brun\nBufo bufo, le Crapaud commun\nBufotes viridis, le Crapaud vert\nEpidalea calamita, le Crapaud calamite\nHyla arborea, la Rainette verte\nPelophylax lessonae, la Grenouille de Lessona\nPelophylax kl. esculentus, la Grenouille verte\nPelophylax ridibundus, la Grenouille rieuse\nPelophylax ridibundus kurtmuelleri, la Grenouille rieuse des Balkans *introduite\nRana dalmatina, la Grenouille agile\nRana temporaria, la Grenouille rousse\n\n\n\n\n\n\n\n\n\n\n\n\n\nCouple de Pélodytes ponctués\n\n\nRainette verte"
-  },
-  {
-    "objectID": "reptiles.html",
-    "href": "reptiles.html",
-    "title": "Reptiles de Lorraine",
-    "section": "",
-    "text": "La Lorraine compte 8 espèces de reptiles autochtones, une espèce introduite.\n\nLézards\n\nLacerta agilis, le Lézard des souches\nPodarcis muralis, le Lézard des murailles\nZootoca vivipara, le Lézard vivipare\nAnguis fragilis, l’Orvet fragile\n\n\n\nSerpents\n\nCoronella austriaca, la coronelle lisse\nHierophis viridiflavus, la couleuvre verte et jaune\nNatrix helvetica, la Couleuvre à collier helvétique\nVipera aspis, la Vipère aspic\n\nIl existe une mention isolée de Couleuvre d’Esculape (Zamenis longissimus) dans le sud des Vosges datant des années 2000, l’espèce n’a pas été retrouvée depuis et nous n’avons jusqu’à présent aucune information sur une population établie et viable de cette espèce dans la région.\n\n\nTortues\n\nTrachemys scripta elegans, la Tortue de Floride *introduite\n\nIl existe des observations ponctuelles d’autres espèces de tortues importées, sans preuve de populations établies comme la Tortue de Floride.\n\n\n\n\n\n\n\n\n\n\n\n\nCouleuvre verte et jaune\n\n\nLézard des murailles"
   },
   {
     "objectID": "news.html",
@@ -89,13 +96,6 @@
     "title": "Actualités",
     "section": "News du 3 juin 2026 : Un nouvel amphibien découvert en Lorraine !",
     "text": "News du 3 juin 2026 : Un nouvel amphibien découvert en Lorraine !\nUn nouveau taxon d’amphibien a été découvert en Lorraine grâce à l’ADN environnemental, il s’agit de la Grenouille verte des Balkans, Pelophylax ridibundus kurtmuelleri. Un article décrivant cette découverte a été publié dans le Bulletin de la Société d’Histoire naturelle et d’Ethnographie de Colmar, en accès public sur le lien suivant"
-  },
-  {
-    "objectID": "agenda.html",
-    "href": "agenda.html",
-    "title": "Agenda",
-    "section": "",
-    "text": "5 décembre 2026 : Colloque annuel du Karch à l’université de Berne (Suisse). Colloque bilingue français-allemand sans traduction. Gratuit, inscription obligatoire.\n5 novembre 2026 : 7èmes rencontres herpétologiques du Grand Est dans la salle de l’hémicycle de l’Hôtel de région 5 rue de Jericho à Châlons-en-Champagne (51). De 9h à 17h. Plus d’informations bientôt.\n\n\n\n\n\n30 septembre au 3 octobre : Congrès annuel de la Société herpétologique de France à Bayonne (64). Programme.\n25-26 septembre 2026 : 22ème rencontres de BFC Nature à l’université de Dijon (UFR Sciences Vie, Terre et Environnement). Une session sur la conservation des amphibiens est programmée le vendredi 25 septembre après-midi.\n5 au 7 juin 2026 : 24h de la biodiversité dans la vallée des Éclusiers (Moselle sud). Plus d’informations sur le lien suivant"
   },
   {
     "objectID": "atlas.html",
